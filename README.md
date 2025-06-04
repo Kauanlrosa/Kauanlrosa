@@ -21,9 +21,6 @@
 
 
 ---
-<!-- GIF -->
-![image](https://github.com/user-attachments/assets/5489dd79-0990-4345-a1e8-0fdc1c4aa370)
 
-
-
+![giphy](https://github.com/user-attachments/assets/5a636fa1-b0c4-4b94-a5fa-5ce79de9fd06)
 
