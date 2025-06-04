@@ -1,5 +1,7 @@
 ## Analista de Qualidade (Quality Assurance – QA) 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanlrosa)](https://github.com/Kauanlrosa/github-readme-stats)
+---
 ## Portfólio:
 * https://github.com/Kauanlrosa/Crit-rios-de-aceita-o-em-Gherkin
 ---
@@ -7,10 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-de-jesus-anjos-lima-da-rosa-bb0114343/)
 
 ---
+![giphy](https://github.com/user-attachments/assets/e2fbfa17-fc10-4acd-b49e-a6ceb87ea914)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanlrosa)](https://github.com/Kauanlrosa/github-readme-stats)
 
 ---
 
@@ -26,8 +28,5 @@
 
 
 ---
-
-![giphy](https://github.com/user-attachments/assets/37107b4a-aab0-45d6-9270-7b6c7dd37c67)
-
 
 <img src="https://raw.githubusercontent.com/Kauanlrosa/Kauanlrosa/output/snake.svg" alt="Snake animation" />
