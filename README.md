@@ -27,7 +27,7 @@
 
 ---
 
-![giphy](https://github.com/user-attachments/assets/5a636fa1-b0c4-4b94-a5fa-5ce79de9fd06)
+![giphy](https://github.com/user-attachments/assets/37107b4a-aab0-45d6-9270-7b6c7dd37c67)
 
 
 <img src="https://raw.githubusercontent.com/Kauanlrosa/Kauanlrosa/output/snake.svg" alt="Snake animation" />
