@@ -18,6 +18,11 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt ="Cucumber logo" height = "40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"> 
+  <img align ="center" alt ="electron logo" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
+
+  
+  
 
 
 ---
