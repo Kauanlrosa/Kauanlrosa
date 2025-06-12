@@ -1,4 +1,4 @@
-## Analista de Qualidade (Quality Assurance – QA) 
+## Engenheiro de Qualidade de Software (Quality Assurance – QA) 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanlrosa)](https://github.com/Kauanlrosa/github-readme-stats)
 ---
