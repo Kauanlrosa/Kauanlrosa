@@ -6,7 +6,7 @@
 * https://github.com/Kauanlrosa/Crit-rios-de-aceita-o-em-Gherkin
 ---
 ## Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-de-jesus-anjos-lima-da-rosa-bb0114343/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauandejesus/)
 
 ---
 ![giphy](https://github.com/user-attachments/assets/e2fbfa17-fc10-4acd-b49e-a6ceb87ea914)
